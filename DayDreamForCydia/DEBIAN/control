@@ -1,0 +1,9 @@
+Package: com.govertigo.daydream
+Name: Day Dream
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A pastel theme with 50+ icons!
+Author: Go Vertigo
+Maintainer: Go Vertigo
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
