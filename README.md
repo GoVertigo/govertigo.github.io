@@ -1,2 +1,1 @@
-# GoVertigo
-A theme repo.
+# govertigo
