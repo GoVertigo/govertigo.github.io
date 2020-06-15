@@ -1,5 +1,5 @@
 Package: com.govertigo.daydream
-Version: 1.3.0-1
+Version: 1.4.0-1
 Section: Themes
 Maintainer: govertigo <tylerhan4@gmail.com>
 Depends: firmware (>7.0), com.spark.snowboard
