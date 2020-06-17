@@ -6,7 +6,7 @@ Depends: firmware (>7.0), com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: daydream.theme
 Size: 1102710
-MD5sum: 
+MD5sum: 5d772c54136d2db3d6794fb0679e8360 
 Description: A pastel theme with over 60 icons!
 Name: Day Dream
 Author: GoVertigo <tylerhan4@gmail.com>
